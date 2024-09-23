@@ -1,4 +1,4 @@
-## replace <DEL> symbol with reference sequences in VCF file
+## replace \<DEL> symbol with reference sequences in VCF file
 
 ### install
 
